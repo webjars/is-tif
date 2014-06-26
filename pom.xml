@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>is-tif</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3-SNAPSHOT</version>
     <name>is-tif</name>
     <description>WebJar for is-tif</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/is-tif</url>
         <connection>scm:git:https://github.com/webjars/is-tif.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/is-tif.git</developerConnection>
-        <tag>is-tif-0.1.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
